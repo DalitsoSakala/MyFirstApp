@@ -1,0 +1,7 @@
+data/com.emethari.MyFirstApp.desktop.in
+data/com.emethari.MyFirstApp.appdata.xml.in
+data/com.emethari.MyFirstApp.gschema.xml
+src/window.ui
+src/main.js
+src/window.js
+
